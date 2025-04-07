@@ -14,7 +14,6 @@ public class Person {
         this.lastName = lastName;
     }
 
-    // Getters & Setters
     public int getId() { return id; }
     public String getFirstName() { return firstName; }
     public String getLastName() { return lastName; }

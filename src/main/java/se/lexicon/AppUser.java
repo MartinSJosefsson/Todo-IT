@@ -20,7 +20,7 @@ public class AppUser {
         this.role = role;
     }
 
-    // Getters and Setters
+
     public String getUsername() { return username; }
     public void setUsername(String username) {
         if (username == null || username.trim().isEmpty())

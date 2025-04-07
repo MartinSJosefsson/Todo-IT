@@ -13,7 +13,7 @@ public class TodoItemTask {
         this.todoItem = todoItem;
     }
 
-    // Getters & Setters
+
     public int getId() { return id; }
     public boolean isAssigned() { return assigned; }
     public TodoItem getTodoItem() { return todoItem; }
